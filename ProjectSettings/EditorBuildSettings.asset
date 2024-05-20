@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/study1-2cam.unity
+    guid: dc489d1f87372cc40a40a37824f6f254
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2eacdf6dd21258340a0e848a4f64baa0, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4da8972059b4a4949850d0e9ece5ab95, type: 2}
